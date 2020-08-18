@@ -1,0 +1,41 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(C:/HTML/DesmotosArts&Crafts/img/pattern.jpg);
+}
+
+.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: Helvetica;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+.frames{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.paint{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
